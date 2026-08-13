@@ -1,0 +1,2 @@
+# Joymiz Blog
+Educational articles
